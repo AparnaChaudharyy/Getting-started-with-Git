@@ -1,7 +1,4 @@
-# Header
-
-Some description
-!
+# Some description
 Author - AparnaChaudhary
 Abhi mujhe HTML
 CSS Cascading Style Sheets
