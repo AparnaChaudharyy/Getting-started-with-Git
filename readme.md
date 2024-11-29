@@ -2,7 +2,7 @@
 
 Some description
 !
-Author_AparnaChaudhary
+Author - AparnaChaudhary
 Abhi mujhe HTML
 CSS Cascading Style Sheets
 C 
